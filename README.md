@@ -6,7 +6,7 @@ Este projeto é um **Gerador de QR Code** feito com **HTML**, **CSS** e **JavaSc
 
 Você pode acessar a versão ao vivo do projeto no seguinte link:
 
-[https://grasiapbaader.github.io/gerador-de-qrcode/](https://grasiapbaader.github.io/gerador-de-qrcode/)
+[[https://grasiapbaader.github.io/gerador-de-qrcode/](https://grasiapbaader.github.io/gerador-de-qrcode/)](https://grasiapbaader.github.io/gerador-qrcode/)
 
 ---
 
