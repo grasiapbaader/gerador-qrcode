@@ -18,6 +18,7 @@ Você pode acessar a versão ao vivo do projeto no seguinte link:
 
 ## 📸 Preview
 
-![Uploading image.png…]()
+<img width="227" height="272" alt="qrcode" src="https://github.com/user-attachments/assets/4907d129-351d-4764-b35f-c83c36405819" />
+
 
 
